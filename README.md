@@ -24,4 +24,4 @@ How to run this sample:
 
 - Enter URL in this form in the browser : http://servername:port/FindItemsAdvanced/FindItemsAdvanced.jsp (replace servername:port appropriately according to your Tomcat configuration. For default Tomcat installation in your localhost, the URL will most likely be http://localhost:8080/FindItemsAdvanced/FindItemsAdvanced.jsp)
 
-- Search eBay listings by providing inputs for "Query Keyword", "Site  to Search" and "No. of Items"
+- Search eBay listings by providing inputs for "Query Keyword", "Site to Search" and "No. of Items"
